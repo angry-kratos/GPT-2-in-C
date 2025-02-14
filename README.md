@@ -82,7 +82,7 @@ Run the program:
 
 ## **References**
 
-This project was heavily inspired by [this YouTube video](https://youtu.be/d1LNUvkRMEg?si=5LSbx7ME7Hf4IsuB) by **Code Pulse**, which provides an excellent explanation of implementing GPT-like transformers in C. I highly recommend checking it out for anyone diving into this project.
+This project was heavily inspired by [this YouTube video]([https://youtu.be/d1LNUvkRMEg?si=5LSbx7ME7Hf4IsuB](https://youtu.be/d1LNUvkRMEg?si=j22jHM_gZWcjw6uW)) by **Raff K**, which provides an excellent explanation of implementing GPT-like transformers in C. I highly recommend checking it out for anyone diving into this project.
 
 ---
 
